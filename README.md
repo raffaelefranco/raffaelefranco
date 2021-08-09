@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raffaelefranco
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 I’m currently studying Computer Engineering
 
 <!---
 raffaelefranco/raffaelefranco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
